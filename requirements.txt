@@ -1,0 +1,6 @@
+arviz==0.10.0
+jupyterlab==2.2.9
+matplotlib==3.3.2
+numpy==1.19.3
+pymc3==3.9.3
+Theano==1.0.5
