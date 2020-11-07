@@ -15,8 +15,8 @@ jupyter lab
 
 #### Libraries
 - [PyMC3](https://docs.pymc.io/)
-- Google [Tensorflow Probabilily](https://www.tensorflow.org/probability)
-- Facebook [BoTorch](https://botorch.org/)
+- [Tensorflow Probabilily](https://www.tensorflow.org/probability)
+- [Pyro](https://pyro.ai/)
 
 #### Examples with Mauna Loa CO2 record
 These tutorials demonstrate fitting a model to the atmospheric CO2 readings from the Mauna Loa observatory.
