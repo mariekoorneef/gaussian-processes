@@ -1,4 +1,4 @@
-# gaussian-processes
+# Probabilistic Programming
 
 ```sh
 virtualenv .env
@@ -9,9 +9,8 @@ jupyter lab
 
 
 ### References
-[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-
-[A visual exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+- [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [A visual exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 
 #### Libraries
 - [PyMC3](https://docs.pymc.io/)
